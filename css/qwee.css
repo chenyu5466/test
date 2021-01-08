@@ -1,0 +1,4 @@
+ .custom-control-label::before {
+  content: "你是猪";
+
+}
